@@ -1,0 +1,15 @@
+
+  .button-row {
+    display: -webkit-box;
+    display: flex;
+    margin-bottom: 30px;
+  }
+  
+  .box{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
